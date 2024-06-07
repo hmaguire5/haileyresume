@@ -75,7 +75,7 @@ export default function HomePage() {
             <img alt="headshot" src={headshot}/>
                 <h1>Hello, I'm <span class="name-text">Hailey Maguire</span></h1>
                 <div class="occupation-text">
-                    <h3>Net Jets / Jet East Contractor</h3>
+                    <h3>Net Jets / West Start Aviation Contractor</h3>
                 </div>
 
                 <p class="lower-info">Aspiring professional seeking entry-level opportunities in Northern Virginia.<br/> Eager to contribute enthusiasm, adaptability, and a strong educational background to a dynamic work environment.</p>
